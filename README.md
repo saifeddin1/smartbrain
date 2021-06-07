@@ -1,0 +1,1 @@
+# Face detection web app based on the Clarifai API
